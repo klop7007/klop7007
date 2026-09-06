@@ -23,6 +23,7 @@ AI 도구를 운영·개발 업무에 적극 활용해 반복 작업을 줄이�
 ## Projects
 
 - [근태 연동 DX](https://github.com/klop7007/portfolio/blob/main/projects/2026-08-attendance-dx.md) — 그룹웨어 신청서 구조화 → ERP 지각 판정 배치 연동 (2026)
+- [통합 ERP 플랫폼 1단계](https://github.com/klop7007/portfolio/blob/main/projects/2026-08-erp-platform.md) — 레거시 통합 DB · FastAPI 조회 API · MCP 서버 (2026, 진행 중)
 - [IR Center](https://github.com/klop7007/portfolio/blob/main/projects/2026-04-ir-center.md) — 본인인증 회원제 IR 사이트, Next.js 14 + MSSQL (2026)
 - [Delphi ERP 자동화](https://github.com/klop7007/portfolio/blob/main/projects/2023-12-delphi-erp-automation.md) — 바코드·이미지·PPT 자동 생성 (2023–24)
 - [그룹웨어 업무 화면 3건](https://github.com/klop7007/portfolio/blob/main/projects/2020-07-groupware-workflows.md) — 장비 예약·거래처 평가·근태 캘린더 (2020–23)
