@@ -9,11 +9,16 @@ AI 도구를 운영·개발 업무에 적극 활용해 반복 작업을 줄이�
 
 ## Skills
 
-| | |
+굵은 글씨는 실무 주력 기술입니다.
+
+| 구분 | 기술 |
 |---|---|
-| **Strong** | Java · JavaScript · jQuery · VB.NET · MSSQL · Oracle · Delphi |
-| **Knowledgeable** | Next.js · Vue/Nuxt 3 · React · PostgreSQL · MyBatis · iBatis |
-| **Etc** | Git · SVN · Jenkins |
+| Language | **Java** · **JavaScript** · **VB.NET** · **Delphi** · TypeScript · C# · Python |
+| Framework | **Next.js** · Spring · Vue 3 · FastAPI |
+| Database | **MS SQL Server** · **Oracle** · PostgreSQL |
+| Infra | **Windows Server** · **Linux** · **SQL Agent** · Docker Compose · PowerShell |
+| AI | **Claude Code** — 프로젝트 규칙(CLAUDE.md) · 훅(위험 명령 차단, 설정 파일 접근 제한, DB 접속 자동 주입) · 서브에이전트 · 슬래시 커맨드 · **DB 조회용 MCP 서버 구현** |
+
 
 ## Projects
 
