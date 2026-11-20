@@ -28,7 +28,7 @@ AI 도구를 운영·개발 업무에 적극 활용해 반복 작업을 줄이�
 - [통합 ERP 플랫폼 1단계](https://github.com/klop7007/portfolio/blob/main/projects/2026-08-erp-platform.md) — 레거시 통합 DB · FastAPI 조회 API · MCP 서버 (2026, 진행 중)
 - [근태 연동 DX](https://github.com/klop7007/portfolio/blob/main/projects/2026-08-attendance-dx.md) — 전자결재 신청서 구조화 → ERP 지각 판정 배치 연동 (2026)
 - [비고시환율 자동 수집](https://github.com/klop7007/portfolio/blob/main/projects/2026-07-fx-rate-collector.md) — 은행 웹 수집 → ERP 적재 배치 (2026)
-- [IR Center](https://github.com/klop7007/portfolio/blob/main/projects/2026-04-ir-center.md) — 본인인증 회원제 IR 사이트, Next.js 14 + MSSQL (2026)
+- [상장사 IR 웹 서비스](https://github.com/klop7007/portfolio/blob/main/projects/2026-04-ir-center.md) — 본인인증 회원제 IR 사이트, Next.js 14 + MSSQL (2026)
 - [전사 업무관리 시스템](https://github.com/klop7007/portfolio/blob/main/projects/2026-03-work-management.md) — M/M 가동률 대시보드 · 그룹웨어 인사 동기화, 공동 개발 (2026)
 - [그룹웨어 레거시 현대화](https://github.com/klop7007/portfolio/blob/main/projects/2026-01-groupware-modernization.md) — JSP 380페이지 UI 개편 · SQL Injection 제거 (2026)
 
